@@ -2,7 +2,6 @@ D:\samuel\CODE C#\Cafeteria\bin\Debug\Cafeteria.exe.config
 D:\samuel\CODE C#\Cafeteria\bin\Debug\Cafeteria.exe
 D:\samuel\CODE C#\Cafeteria\bin\Debug\Cafeteria.pdb
 D:\samuel\CODE C#\Cafeteria\obj\Debug\Cafeteria.csproj.AssemblyReference.cache
-D:\samuel\CODE C#\Cafeteria\obj\Debug\Cafeteria.csproj.SuggestedBindingRedirects.cache
 D:\samuel\CODE C#\Cafeteria\obj\Debug\Cafeteria.Form1.resources
 D:\samuel\CODE C#\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
 D:\samuel\CODE C#\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
