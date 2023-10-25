@@ -20,4 +20,10 @@
 
 ## 📸 Fotos do projeto
 <div>
+<img src="imagens/Café.png" width="400" />
+<img src="imagens/caferecibo.png" width="400" />
+<img src="imagens/Imprimir.png" width="200" />
+<img src="imagens/recibo.png" width="300" />
+<img src="imagens/resetando.png" width="400" />
+<img src="imagens/Salvando recibo.png" width="300" />
 </div>
