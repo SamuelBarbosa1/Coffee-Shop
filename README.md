@@ -2,8 +2,8 @@
 <h1 align="center"> Projeto Cafeteria </h1>
 
 ## :memo: Descrição
-* Aplicativo mobile de gerenciamento de tarefas, podendo adicionar uma tarefa e classificar por prioridade (alta, média ou baixa).
-* Usando o Mongoose para realizar a conexão com o banco de dados MongoDB e o expo como emulator .
+* Uma simulação de uma cafeteria, a onde você mesmo pode montar o seu pedido e simular a sua compra ou simular que seja um<br>atendente de uma bela cafeteria.
+
 ## :books: Funcionalidades
 * Você pode montar o seu pedido
 * Remover os pedidos feitos
